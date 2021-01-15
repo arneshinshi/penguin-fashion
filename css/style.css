@@ -3,7 +3,6 @@
 }
 .background2{
     background-color: #FFFBF0;
-    height: 600px;
 }
 .welcome-h1{
     font-weight: 700;
@@ -42,10 +41,33 @@ button img{
     padding-right: 3em;
     height: 60%;
 }
+.card-title{
+    color: #363958;
+    font-weight: 700;
+}
 .about-h6{
     color: #363958;
     font-weight: 700;
 }
 .price{
+    color: #FABE4C;
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+    background-color: #FFFBF0;
+}
+h4{
+    color: #FABE4C;
+    text-align: center;
+}
+.stay-connected img{
+    margin-right: 1em;
+}
+.p-form{
+    background-color: #638BE2;
+    border: 10px solid #638BE2;
+}
+h5{
     color: #FABE4C;
 }
